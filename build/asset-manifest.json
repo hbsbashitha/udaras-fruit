@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hbsbashitha/udaras-fruit/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hbsbashitha/udaras-fruit/static/js/main.a1e34399.chunk.js",
+    "main.js.map": "/hbsbashitha/udaras-fruit/static/js/main.a1e34399.chunk.js.map",
+    "runtime-main.js": "/hbsbashitha/udaras-fruit/static/js/runtime-main.8ae32b4d.js",
+    "runtime-main.js.map": "/hbsbashitha/udaras-fruit/static/js/runtime-main.8ae32b4d.js.map",
+    "static/js/2.c1a2717c.chunk.js": "/hbsbashitha/udaras-fruit/static/js/2.c1a2717c.chunk.js",
+    "static/js/2.c1a2717c.chunk.js.map": "/hbsbashitha/udaras-fruit/static/js/2.c1a2717c.chunk.js.map",
+    "static/js/3.fc777b66.chunk.js": "/hbsbashitha/udaras-fruit/static/js/3.fc777b66.chunk.js",
+    "static/js/3.fc777b66.chunk.js.map": "/hbsbashitha/udaras-fruit/static/js/3.fc777b66.chunk.js.map",
+    "index.html": "/hbsbashitha/udaras-fruit/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hbsbashitha/udaras-fruit/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c1a2717c.chunk.js.LICENSE.txt": "/hbsbashitha/udaras-fruit/static/js/2.c1a2717c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae32b4d.js",
+    "static/js/2.c1a2717c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a1e34399.chunk.js"
+  ]
+}
