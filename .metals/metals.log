@@ -47,3 +47,5 @@ INFO: Unsupported notification method: $/setTrace
 [0m2021.06.17 21:22:24 INFO  time: initialize in 8.18s[0m
 [0m2021.06.17 21:22:24 WARN  Build server is not auto-connectable.[0m
 [0m2021.06.17 21:22:24 WARN  no build tool detected in workspace 'C:\Users\bhath\Desktop\udaras project\udaras-project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jun 18, 2021 1:26:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
